@@ -1,0 +1,1 @@
+This progam will recognize the handwritten character
