@@ -1,1 +1,1 @@
-This progam will recognize the handwritten character
+The handwritten recognition model initiated
